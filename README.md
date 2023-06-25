@@ -3,8 +3,8 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 
 ## Description
 This small mod can change some scene items.
-- (Timberwolf mountain) Mountaineer's hut
-- (Coastal highway) Abandoned lookout
+- (Timberwolf Mountain) Mountaineer's Hut
+- (Coastal Highway) Abandoned Lookout
 - (Mystery Lake) Forestry Lookout
 - (Bleak Inlet) Pensive Lookout
 
