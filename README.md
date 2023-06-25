@@ -32,5 +32,5 @@ Several items can be changed from the **Options - Mod Settings**.
 * Move a **.dll** file in the downloaded ZIP to the Mods folder.<br>
 
 # Special Thanks
-Santana (the original creator of this mod)
+Santana (the original creator of this mod) and 
 The Long Dark Modding Server (Discord)
